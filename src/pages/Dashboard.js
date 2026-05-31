@@ -1,5 +1,5 @@
 import React from 'react';
-import DataTable from '../components/DataTable'; // ייבוא הטבלה מהתיקייה שלה
+import DataTable from '../components/DataTable'; // import the DataTable component to display the user data
 
 function Dashboard() {
   return (
